@@ -8,7 +8,7 @@ package savelink;
 import java.io.Serializable;
 
 /**
- *
+
  * @author dinh son
  */
 public class Link implements Serializable{
